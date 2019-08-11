@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Stupid Sexy Flanders",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/68/Stupid_Sexy_Flanders.png/revision/latest/scale-to-width-down/350?cb=20150313213758",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Grandpa",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/b/b1/Hi.jpg/revision/latest/scale-to-width-down/200?cb=20111002053616",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Krusty",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a5/Homer_krusty.jpg/revision/latest/scale-to-width-down/200?cb=20160320214316",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Nelson",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/d/d2/Nelson_bleeding.JPG/revision/latest/scale-to-width-down/200?cb=20060820164122",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Lisa",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/2/21/IMG_6089.gif/revision/latest?cb=20161017184724",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Marge",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/b/b4/Glasses.png/revision/latest/scale-to-width-down/180?cb=20140323083040",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Alien Burns",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/97/Mr_Burns_alien.png/revision/latest/scale-to-width-down/180?cb=20100702145947",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Willie",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/4/47/Hokuto_no_willie.jpg/revision/latest/scale-to-width-down/180?cb=20110215003415",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Otto",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/e/e8/Otto_pwns_marge.jpg/revision/latest/scale-to-width-down/230?cb=20120115171707",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Maggie",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/7/7f/Maggie_in_season_20.gif/revision/latest/scale-to-width-down/200?cb=20120211040854",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Sideshow Bob",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/9a/Bob_prison.jpg/revision/latest/scale-to-width-down/200?cb=20100614161556",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Milhouse",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/c/c3/Milhouse_Future.png/revision/latest/scale-to-width-down/180?cb=20100614171702",
+      "count": 0
+    }
+  ]
