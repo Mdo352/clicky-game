@@ -1,3 +1,12 @@
+# Simpsons Clicky Game
+Test your memory with this simpsons themed memory game. Click on all 12 picture each turn without repeating. Be careful all the pictures change locations after every click.
+
+The deployed version of the application is here: https://mdo352.github.io/clicky-game/
+
+## Built With
+- React
+- node.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
